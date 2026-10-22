@@ -7,12 +7,14 @@
 >>04. 점프, 투 파이썬  
 >>05. 핸즈온 머신러닝 3판
 
+>>06. 다양한 프로젝트로 끝장내는 파이토치 딥러닝
+
 ### 참고 자료
 
 - [저자 공식 GitHub 저장소]
 - [Hands-On Machine Learning 3판](https://github.com/ageron/handson-ml3)
 - [위키독스 온라인판: 점프 투 파이썬](https://wikidocs.net/book/1)
-
+- [다양한 프로젝트로 끝장내는 파이토치 딥러닝] (https://github.com/kairos03)
 
 ### Markdown 문법 정리
 
