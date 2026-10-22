@@ -1,4 +1,5 @@
 ### MBCA YOLO 
+#### start : 2026.10.22 , end : 2026.12.22 
 >> 도서 
 >>01. Deep Learning from Scratch  
 >>02. 컴퓨터 비전과 딥러닝  
