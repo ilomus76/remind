@@ -8,7 +8,8 @@
 
 ### 참고 자료
 
-- [저자 공식 GitHub 저장소: Hands-On Machine Learning 3판](https://github.com/ageron/handson-ml3)
+- [저자 공식 GitHub 저장소]
+- [Hands-On Machine Learning 3판](https://github.com/ageron/handson-ml3)
 - [위키독스 온라인판: 점프 투 파이썬](https://wikidocs.net/book/1)
 
 
